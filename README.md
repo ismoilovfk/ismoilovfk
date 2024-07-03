@@ -1,10 +1,6 @@
 - 👋 Hi, I’m Ismoilov Faridun
-- 👀 I’m interested in DevOps, Data Scinece and Python
+- 👀 I’m interested in DevSecOps, Data Scinece and Python
 - 🌱 I’m currently learning AWS
-- 📫 How to reach me ismoilovfk@gmail.com or https:t.me/ffbahm
+- 📫 How to reach me: [ismoilovfk@gmail.com](mailto:ismoilovfk@gmail.com) or [https://t.me/ffbahm](https://t.me/ffbahm)
 - ⚡ Fun fact: There is no :)
-
-<!---
-ismoilovfk/ismoilovfk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🐳 Check out my Docker Hub: [https://hub.docker.com/u/ismoilovfk](https://hub.docker.com/u/ismoilovfk) 
